@@ -1,0 +1,29 @@
+.error {
+    color : red;
+}
+
+.campo {
+    width: 200px;
+    flex:2;
+}
+
+.labelForm {
+    width: 100px;
+    flex:1;
+}
+
+.agrupar {
+    background-color: gray;
+    width: 500px;
+    padding: 1.0em;
+    border-radius: 2.0em;
+    display: flex;
+    margin: 1.0em auto;
+}
+
+.botoncito {
+    padding: 1.0em 2.0em;
+    font-size: 1.1em;
+    border-radius: 1.0em;
+    background-color: green;
+}
